@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Jose Genovea's Webpage!</title>
+
+<link rel="stylesheet" type="text/css" href="Jose-Webpage.css" />
+
+
+</head>
+<body>
+<div>
+	<ul>
+      <li class="navlist"><a href="Jose-Interests.html">Interests</a>  &nbsp; &nbsp;</li>
+  	  <li class="navlist"><a href="Jose-Hobbies.html">Hobbies</a> &nbsp; &nbsp;</li>
+      <li class="h1"><a href="Jose-Homepage.html">Jose Genovea's Homepage</a>&nbsp; &nbsp;</li>
+      <li class="navlist"><a href="Jose-Family.html">Family</a> &nbsp; &nbsp;</li>
+      <li class="navlist"><a href="Jose-HowItsDone.html">How It's Done</a> &nbsp; &nbsp;</li>
+      </ul>
+</div>
+<div>
+	<ul>
+      <li><img class="align-left" src="../Images/Photo_of_Me.png" width="205" height="492" alt="Me" /></li>
+      <li><h3>About Me</h3></li>      	
+      <li><p> Hey guys, my name is Jose Genovea and welcome to my webpage! This website will explain my favorite things to do, my interest choices in mind, and my loving family that I cherish so much. I'm currently a senior at Elcamino high school, exploring the computer science atmosphere. This webpage was done with the help of my mentor Gabe Samson, who played a huge part in showing me how HTML coding works.</p></li>   
+</ul>
+</div>
+
+<div class="bullets">
+<h3>Interesting Facts About Me:</h2>
+<li>My birthday is June 16, 1998.</li>
+<li>I am currently 17 years old.</li>
+<li>I currently live in Daly City, California.</li>
+<li>I've taken several AP classes throughout my highschool career.</li>
+</div>
+<hr>
+
+<div class="footer">
+	<ul>      
+<li class="footer"><a href="Jose-Interests.html">Interests</a>  &nbsp; ~&nbsp;</li>
+  	  <li class="footer"><a href="Jose-Hobbies.html">Hobbies</a> &nbsp; ~&nbsp;</li>
+      <li class="footer"><a href="Jose-Homepage.html">Jose Genovea's Homepage</a>&nbsp; ~&nbsp;</li>
+      <li class="footer"><a href="Jose-Family.html">Family</a> &nbsp; ~&nbsp;</li>
+      <li class="footer"><a href="Jose-HowItsDone.html">How It's Done</a> &nbsp; &nbsp;</li>
+      </ul>
+</body>
+</html>
